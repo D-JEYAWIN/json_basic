@@ -1,0 +1,8 @@
+{
+'name':'jeyawin', 
+'place':'erode',
+'dob':'1998',
+'indian':'true',
+'budget':'null',
+'phno':'9876543210'
+}
